@@ -3,7 +3,7 @@ Building AI My Idea
 
 Building AI course project
 
-##Summary
+##Summary##
 The Idea. AI/ML assisted road traffic recognition and classification. Locate some good-enough quality microphones outside on a roadside. Monitor the recived audio spectrum/noise by a computer. When traffic (cars, lorries, motorcycles etc.) pass by they contribute to received noise by their specific audio fingerprint. Let AI/ML algorithm to analyse the audio signal and learn which sounbd is coming from which vehicule. Some assistance can be provided o teach the algorithm. LAter the algorthm can classify how many vehicles paass the monitor location and can be used for traffic counting instead of cameras.
 
 ##Background
