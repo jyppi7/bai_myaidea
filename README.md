@@ -22,12 +22,11 @@ Main source is the gathered audio spectrum and some manual or video-assisted cla
 
 ## Challenges
 
-I have no idea how complex (expensive) audio technology system is requred to provide good enoug quality signal for analysis. Teachning the AI/ML algorithm may be challemge due to several unknown parameters. Sound patterns may be so diverse that classsification is very challenging. Audio pattern changes along weather conditions (dry summer, snow/slushhy winter).
+I have no idea how complex (expensive) audio technology system is requred to provide good enough signal for analysis. Teachning the AI/ML algorithm may be challenging due to several unknown parameters and reliability low. Sound patterns may be so diverse that classsification is very challenging. Audio pattern changes along weather conditions (dry summer, snow/slushhy winter), even similar vehicules may have very different sound (age, mileages), rouad surfaces and tyres are different (slick, spikes).
 
 ## What next
 
 When system is up and running it offers platform for further experimentation: Can we detect the speed of vehicules to monitor how fast thay are moving on avarage (vs. speed limit)? Can we say if a car is using summer or winter tyres 8as winter tyres with spikes may be banned on certain roads)? Analysing in more detail the soun of motors, can we say something about the agae or potential problems with car motors (maybe for privacy purposes we wont identify individual cars)?
-
 
 ## Acknowledgments
 
