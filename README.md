@@ -5,7 +5,7 @@ Building AI course project
 
 ## Summary
 
-The Idea. AI/ML assisted road traffic audio recognition and classification. Monitor the recived audio from road traffic spectrum/noise by a computer around the clock. When traffic passes by each vehicule (car, lorry, motorcycle, bike etc.) contributes to the received noise by their specific audio fingerprint. Let AI/ML algorithm to analyse the audio signal and learn which sound is coming from which object. Some assistance can be provided to teach the algorithm. Later the algorthm can classify how many vehicles pass the monitor location and can be used for traffic counting instead of cameras.
+The Idea. AI/ML assisted road traffic audio recognition and classification. Monitor the recived audio from road traffic spectrum/noise by a computer around the clock. When traffic passes by each vehicule (car, lorry, motorcycle, bike etc.) contributes to the received noise by their specific audio fingerprint. Let AI/ML algorithm to analyse the audio signal and learn which sound is coming from which object. Some assistance can be provided to teach the algorithm. Later the algorthm can classify how many vehicles pass the monitor location and can be used for traffic counting instead of cameras. Monitoring wide audio (even extended to infra and ultra sound) spectrum and analysing that with AI/ML may provide more sophisticated results than just measuring audio noise levels in decibels.
 
 ## Background
 
@@ -30,6 +30,7 @@ I have no idea how complex (expensive) audio technology system is requred to pro
 ## What next
 
 When system is up and running it offers platform for further experimentation: Can we detect the speed of vehicules to monitor how fast thay are moving on avarage (vs. speed limit)? Can we say if a car is using summer or winter tyres 8as winter tyres with spikes may be banned on certain roads)? Analysing in more detail the sound of motors, can we say something about the potential problems or need for maintenance (maybe for privacy purposes we wont identify individual cars)? Would be interesting to study what other man-made or natural sounds the system can learn to analyse: earthquakes? atmospheric phenomena like lightning?
+Sound/noise sensor range could be extended to cover in addition to audible sounds also infra and ultra sound spectrum to gain more insight into monitered phenomena.
 
 ## Acknowledgments
 
