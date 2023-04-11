@@ -16,6 +16,8 @@ Using cameras alone in public places monitoring what is happenig in nature and i
 Locate some good-enough quality microphones outside on a roadside. Monitor the recived audio spectrum/noise by a computer around the clock over a long period.
 City authors may use this to monitor noise level wheather it is within the limits. Law enforcement may use the analysis resutls to monitor if peed limits are followed on average and focus ticketing to the places where excess speed is more probable. Reasearch community when designing better environmental solutions and city plans.
 
+For example: "The city of Leuven in Belgium limits noise nuisances from nightlife for its citizens and prevent damage to the hearing of the nightlife participants. The city has issued regulations that require establishments that play loud music to limit the sound levels and monitor these levels continuously."
+
 ## Data and AI techniques
 
 Main source is the gathered audio spectrum and some manual or video-assisted classification. There may be possibility to use prerecorded audio libraries. Approaches studied are unasisted and assisted learning. Probably non-liner ML is the most viable tool here. If we consider audio signal similar to image reckognise problem, tehn CNN or RNN may be applicable.
@@ -26,8 +28,9 @@ I have no idea how complex (expensive) audio technology system is requred to pro
 
 ## What next
 
-When system is up and running it offers platform for further experimentation: Can we detect the speed of vehicules to monitor how fast thay are moving on avarage (vs. speed limit)? Can we say if a car is using summer or winter tyres 8as winter tyres with spikes may be banned on certain roads)? Analysing in more detail the soun of motors, can we say something about the agae or potential problems with car motors (maybe for privacy purposes we wont identify individual cars)?
+When system is up and running it offers platform for further experimentation: Can we detect the speed of vehicules to monitor how fast thay are moving on avarage (vs. speed limit)? Can we say if a car is using summer or winter tyres 8as winter tyres with spikes may be banned on certain roads)? Analysing in more detail the sound of motors, can we say something about the potential problems or need for maintenance (maybe for privacy purposes we wont identify individual cars)? Would be interesting to study what other man-made or natural sounds the system can learn to analyse: earthquakes? atmospheric phenomena like lightning?
 
 ## Acknowledgments
 
 Not known yet if open source will be used but probably well known AI libraries like Tensorflow. Mey be worh studying if ChatGPT of something similar can be utilised.
+While checking if my idea was unique I found one interesting experiment: Noise measurements: Managing noise in Leuven nightlife https://munisense.com/
