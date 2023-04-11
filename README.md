@@ -17,6 +17,7 @@ Locate some good-enough quality microphones outside on a roadside. Monitor the r
 City authors may use this to monitor noise level wheather it is within the limits. Law enforcement may use the analysis resutls to monitor if peed limits are followed on average and focus ticketing to the places where excess speed is more probable. Reasearch community when designing better environmental solutions and city plans.
 
 For example: "The city of Leuven in Belgium limits noise nuisances from nightlife for its citizens and prevent damage to the hearing of the nightlife participants. The city has issued regulations that require establishments that play loud music to limit the sound levels and monitor these levels continuously."
+Or: "To reduce noise, cities need new sensor technology that can tell the difference between a dog barking, a garbage truck and a revving motorcycle engine."
 
 ## Data and AI techniques
 
@@ -33,4 +34,7 @@ When system is up and running it offers platform for further experimentation: Ca
 ## Acknowledgments
 
 Not known yet if open source will be used but probably well known AI libraries like Tensorflow. Mey be worh studying if ChatGPT of something similar can be utilised.
-While checking if my idea was unique I found one interesting experiment: Noise measurements: Managing noise in Leuven nightlife https://munisense.com/
+While checking if my idea was unique I found some very interesting related ideas, products and experiments:
+* Noise measurements: Managing noise in Leuven nightlife https://munisense.com/
+* Bloomberg: https://www.bloomberg.com/news/features/2021-12-02/can-sensor-technology-cut-noise-pollution-in-cities
+* Real-Time Noise Monitoring for Smart Cities https://www.sonitussystems.com/insights/real-time-noise-monitoring-for-smart-cities/
